@@ -1,5 +1,6 @@
 # addition of two numbers
 a=10
 b=20
-c = a+b
-print(f'addition of {a} and {b} is {c}')
+c = 30
+d = a+b+c
+print(f'addition of {a} and {b} and {c} is {d}')
